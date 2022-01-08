@@ -1,4 +1,4 @@
-# RedTeam_Lab_User
+# RedTeam Lab User
 This script helps to simulate the normale day to day activities of users in computer system.
 
 In RedTeam Lab deployement, it's more realistic to have client machines that generate network traffic and do activities such as opening files, surffing the internet, ect.
